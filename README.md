@@ -2,3 +2,4 @@
 .....
 ## sample-java-app
 .....edited with commit
+for poll-scm , every  minutes
